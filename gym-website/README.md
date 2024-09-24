@@ -12,7 +12,7 @@ React responsive Gym Website using ReactJs
 
 </ul><h2> Preview ⚡️</h2>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/99754900/178131437-4b89e398-f451-46b5-b40e-a5fa2275166c.jpg" />
+  <img src="./src/assets/responsive gym website .jpg" alt="Gym Website" width="100%" />
 </p>
 
 ## Features 🔥
